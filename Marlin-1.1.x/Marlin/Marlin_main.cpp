@@ -6409,7 +6409,7 @@ inline void gcode_G92() {
   */
   inline void gcode_M5() {
     stepper.synchronize();
-    analogWrite(SPINDLE_LASER_PWM_PIN, 0);
+    analogWrite(SPINDLE_LASER_PWM_PIN, 0); //IDKMSU
     delay_for_power_down();
   }
 
