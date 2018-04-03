@@ -1,0 +1,35 @@
+<!--
+
+Have you read Marlin's Code of Conduct? By filing an Issue, you are expected to comply with it, including treating everyone with respect. Click the "Code of conduct" link in the sidebar under "Helpful resources."
+
+Do you want to ask a question? Are you looking for support? Please don't post here. Instead please use one of the helpful community resources:
+
+- The RepRap.org Marlin Forum at http://forums.reprap.org/list.php?415
+- The "Marlin Firmware for 3D Printers" Facebook Group at https://www.facebook.com/groups/3Dtechtalk/
+- The "Marlin Firmware" Facebook Group at https://www.facebook.com/groups/1049718498464482/
+
+Before filing an issue be sure to test the 1.1 and/or 2.0 "bugfix" branches to see whether the issue is already addressed.
+
+-->
+
+### Description
+
+<!-- Description of the bug or requested feature -->
+
+### Steps to Reproduce
+
+<!-- If this is a Bug Report, please describe the steps needed to reproduce the issue -->
+
+1. [First Step]
+2. [Second Step]
+3. [and so on...]
+
+**Expected behavior:** [What you expect to happen]
+
+**Actual behavior:** [What actually happens]
+
+#### Additional Information
+
+* Include a ZIP file containing your `Configuration.h` and `Configuration_adv.h` files.
+* Provide pictures or links to videos that clearly demonstrate the issue.
+* Read the "Contributing" page (under "Helpful resources") for additional guidelines.
